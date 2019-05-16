@@ -5,7 +5,8 @@
 ---
 
 ## 1. Java
-:arrow_forward: [답변 내용](/contents/java.md)
 * Java I/O Stream
+
+  :arrow_forward: [정리 내용](/contents/Java-IO-Stream.md)
 
   

@@ -11,7 +11,7 @@
 
   :arrow_forward: [정리 내용](/contents/Java-IO-Stream.md)
 
--  Java-TryCatch
+* Java-TryCatch
 
   :arrow_forward: [정리 내용]( /contents/Java-TryCatch.md)
 

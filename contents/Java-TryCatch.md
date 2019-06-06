@@ -99,7 +99,7 @@
 
     
 
-  ![Throwableì ëí ì´ë¯¸ì§ ê²ìê²°ê³¼](http://www.cs.sfu.ca/~tamaras/exceptions/img1.png)
+  ![Throwable](http://www.cs.sfu.ca/~tamaras/exceptions/img1.png)
 
   
 

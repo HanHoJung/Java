@@ -97,13 +97,9 @@
 
     
 
-    
-
-<<<<<<< HEAD
-  ![Throwable](http://www.cs.sfu.ca/~tamaras/exceptions/img1.png)
-=======
+   
   ![Throwable](http://www.benchresources.net/wp-content/uploads/2017/02/exception-hierarchy-in-java.png)
->>>>>>> 0ac002097af65f3e45b60a9df4f123f2d14ea128
+
 
   
 
